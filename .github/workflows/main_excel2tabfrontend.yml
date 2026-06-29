@@ -52,4 +52,4 @@ jobs:
           app-name: 'excel2tabFrontend'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A5FD8B1C4F24DE285F3D706D89AF957 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E3B70E9FC3174E3FB19E04E80AA08A41 }}
